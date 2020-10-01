@@ -77,3 +77,8 @@ and finally found that final and best results were by:
 •	[MTCNN face detector + Face Alignment Algorithm + Face landmark
 predictor] with test accuracy of: 82%
 
+# Documentation
+
+https://drive.google.com/file/d/181TQi7aOwakG6wdRYALZhkbzVEmYWN8Q/view?usp=sharing
+
+We used latex as software system for document preparation

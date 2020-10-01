@@ -69,10 +69,10 @@ it consists of CNN models for the Distraction and drunkenness categories and lan
 and finally found that final and best results were by:
 
 •	VGG16 for the Drunkenness category with test accuracy of: 93.7%
+
 •	VGG19 for the Distracted category with test accuracy of: 92.7%
 
 -	We also tried [dlip face detector + face landmark predictor], [MTCNNface detector + face landmark predictor] for the sleeping category and finally found that final and best results was by:
-
 •	[MTCNN face detector + Face Alignment Algorithm + Face landmark
 predictor] with test accuracy of: 82%
 
